@@ -35,18 +35,5 @@ Traffic monitoring
 
 Prototyping AI-powered assistants
 
-📁 Folder Structure Overview
-php
-Copy
-Edit
-AI_Vision_Toolkit/
-├── models/             # Pretrained or custom models
-├── detectors/          # Vision detection modules
-├── utils/              # Helper scripts and configuration
-├── app.py              # Main application logic
-├── templates/          # Frontend templates (for Flask)
-├── static/             # Assets like CSS/JS/images
-├── requirements.txt    # Project dependencies
-└── README.md           # Documentation
 👨‍💻 Developed by
 Amith — An engineering student passionate about embedded systems, AI, and real-time vision solutions. This project is part of a broader initiative to build intelligent applications that combine AI and edge computing.
